@@ -1,4 +1,4 @@
-🚀 Hey there! I'm Nandini Yamani! 👋 😊  
+ 🚀 Hey there! I'm Nandini Yamani! 👋 😊  
 ----
 VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Design | Semiconductor Process Technologies | Fabrication & Cleanroom environment
 
@@ -63,8 +63,11 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 • Reduced simulation run-time by 30% through optimized UVM methodology and transaction-level modeling (TLM).  
 
 🖥️**Design and Verification of 4-bit ALU using SystemVerilog**
+
 •	Developed and validated a parameterized 4-bit ALU in SystemVerilog supporting 8 arithmetic and logical operations with sub-nanosecond (<1 ns) combinational delay.
+
 •	Devised and implemented a SystemVerilog assertion-based self-checking testbench, ensuring 100% functional coverage and comprehensive validation of 256 operand combinations across operation modes.
+
 •	Performed pre-synthesis functional simulation using Xilinx Vivado, validating 100% output correctness within an 80 ns simulation window.
 
 🏢 **Five-Floor Elevator Control System Using Finite State Machine**  
