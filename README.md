@@ -13,7 +13,7 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 ✉️ You can email me at nandini.yamani@gmail.com. 
 
 🔗 You can connect with me on [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/nandini-yamani-b6a013233/).
- .  
+   
 
 🎓 Education  
 -----
@@ -51,7 +51,7 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 
 🛠️ Tools & Technologies  
 ----
-• **Tools & software**: Xilinx Vivado, Questasim, MATLAB, Cadence, LTSpice, HSpice, ModelSim, JMP  
+• **Tools & software**: Xilinx Vivado, Questasim, MATLAB, Cadence, LTSpice, HSpice, ModelSim, JMP, VCS  
 • **Programming Languages**: C, Python, TCL, Perl, Verilog, VHDL, SystemVerilog, SVA  
 • **Verification Methodologies**: UVM (TLM, TLM2.0), OVM  
 • **Communication Protocols**: UART, SPI, I2C, AHB, APB, PCIe  
@@ -61,6 +61,11 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 🖥️ **Asynchronous FIFO UVM Testbench Development**  
 • Engineered a comprehensive UVM-based testbench to validate FIFO functionality, covering edge cases such as buffer overflow/underflow and clock domain synchronization.  
 • Reduced simulation run-time by 30% through optimized UVM methodology and transaction-level modeling (TLM).  
+
+🖥️**Design and Verification of 4-bit ALU using SystemVerilog**
+•	Developed and validated a parameterized 4-bit ALU in SystemVerilog supporting 8 arithmetic and logical operations with sub-nanosecond (<1 ns) combinational delay.
+•	Devised and implemented a SystemVerilog assertion-based self-checking testbench, ensuring 100% functional coverage and comprehensive validation of 256 operand combinations across operation modes.
+•	Performed pre-synthesis functional simulation using Xilinx Vivado, validating 100% output correctness within an 80 ns simulation window.
 
 🏢 **Five-Floor Elevator Control System Using Finite State Machine**  
 • Developed a five-floor elevator control system using FSM architecture, improving response time by 30% during simulation.  
@@ -78,6 +83,6 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 -----
 🏆 Certified by SAS- JMP (DOE, SPC, etc.)  
 🏆 Certified by LinkedIn Learning – Verilog, Perl, Computer Architecture Essentials  
-🏆 Certificate by Purdue University – Semiconductor Fabrication 101 (FEOL and BEOL process)  
-
+🏆 Certificate by Purdue University – Semiconductor Fabrication 101 (FEOL and BEOL process)
+🏆 Certificate by Udemy - Design Verification with SystemVerilog/UVM 
 
