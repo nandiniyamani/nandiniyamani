@@ -87,5 +87,6 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 🏆 Certified by SAS- JMP (DOE, SPC, etc.)  
 🏆 Certified by LinkedIn Learning – Verilog, Perl, Computer Architecture Essentials  
 🏆 Certificate by Purdue University – Semiconductor Fabrication 101 (FEOL and BEOL process)
+
 🏆 Certificate by Udemy - Design Verification with SystemVerilog/UVM 
 
