@@ -79,15 +79,15 @@ VLSI Design & Verification | FPGA Programming & Testbench Development | RTL Desi
 • Designed a PWM-based embedded system to control a 12V DC motor's speed via Bluetooth (HC-05), enabling wireless adjustment from a mobile app.  
 • Integrated an I2C LCD display for real-time motor speed feedback.  
 
-**🧠Spike Sorting in Neurobiology using Wavelet Transform, PCA, and GMM**
-•Developed a MATLAB-based pipeline for detecting and sorting neural spikes using bandpass filtering and threshold-based peak detection, improving signal-to-noise ratio in simulated neural recordings.
-•Implemented PCA and K-means clustering to classify spikes into neuron-specific clusters, achieving 90%+ clustering accuracy on synthetic data.
+🧠**Spike Sorting in Neurobiology using Wavelet Transform, PCA, and GMM**
+•Developed a MATLAB-based pipeline for detecting and sorting neural spikes using bandpass filtering and threshold-based peak detection, improving signal-to-noise ratio in simulated neural recordings.  
+•Implemented PCA and K-means clustering to classify spikes into neuron-specific clusters, achieving 90%+ clustering accuracy on synthetic data.  
 •Benchmarked algorithm efficiency across varying sampling rates and noise levels, validating robustness for real-time neurophysiological data preprocessing.
 
 📜 Certifications & Technical Achievements  
 -----
 🏆 Certified by SAS- JMP (DOE, SPC, etc.)  
 🏆 Certified by LinkedIn Learning – Verilog, Perl, Computer Architecture Essentials  
-🏆 Certificate by Purdue University – Semiconductor Fabrication 101 (FEOL and BEOL process)
-🏆 Certificate by Udemy - Design Verification with SystemVerilog/UVM 
+🏆 Certificate by Purdue University – Semiconductor Fabrication 101 (FEOL and BEOL process)  
+🏆Certificate by Udemy - Design Verification with SystemVerilog/UVM 
 
