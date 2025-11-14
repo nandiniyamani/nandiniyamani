@@ -69,7 +69,7 @@ Experience
 🔬 Key Projects & Research Contributions  
 ----
 
-🔋 **16-bit RISC ALU Core with Integrated DSP MAC and Fault Detection Logic**
+🔋 **16-bit RISC ALU Core with Integrated DSP MAC and Fault Detection Logic**  
 • Designed and verified a 16-bit Arithmetic Logic Unit (ALU) with integrated Multiply-Accumulate (MAC) DSP functionality using Verilog HDL in Xilinx Vivado, achieving 100% functional verification coverage across 6 arithmetic and logic operations  
 • Implemented a real-time fault injection and detection mechanism using bit-flip modeling and parity-based error checking, demonstrating robust fault tolerance with 100% detection accuracy during simulation on FPGA environment  
 • Developed and executed an automated Verilog testbench to validate ALU, MAC, and fault-response logic, achieving stable 100 MHz simulation timing and confirming deterministic behavior under injected single-event upset (SEU) conditions
