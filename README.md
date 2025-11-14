@@ -70,13 +70,13 @@ Experience
 ----
 
 🔋 **16-bit RISC ALU Core with Integrated DSP MAC and Fault Detection Logic**
-• Designed and verified a 16-bit Arithmetic Logic Unit (ALU) with integrated Multiply-Accumulate (MAC) DSP functionality using Verilog HDL in Xilinx Vivado, achieving 100% functional verification coverage across 6 arithmetic and logic operations
-• Implemented a real-time fault injection and detection mechanism using bit-flip modeling and parity-based error checking, demonstrating robust fault tolerance with 100% detection accuracy during simulation on FPGA environment
+• Designed and verified a 16-bit Arithmetic Logic Unit (ALU) with integrated Multiply-Accumulate (MAC) DSP functionality using Verilog HDL in Xilinx Vivado, achieving 100% functional verification coverage across 6 arithmetic and logic operations  
+• Implemented a real-time fault injection and detection mechanism using bit-flip modeling and parity-based error checking, demonstrating robust fault tolerance with 100% detection accuracy during simulation on FPGA environment  
 • Developed and executed an automated Verilog testbench to validate ALU, MAC, and fault-response logic, achieving stable 100 MHz simulation timing and confirming deterministic behavior under injected single-event upset (SEU) conditions
 
 🖥️ **Design and UVM Verification of an IEEE 754 Single-Precision Floating Point Unit**  
-• Designed a sequential IEEE-754 compliant FPU in Verilog/SystemVerilog supporting addition, multiplication, and division with Round-to-Nearest-Even (RNE) rounding and FSM-based control
-• Developed a UVM-based verification environment with constrained-random test generation, assertions, and functional coverage, achieving >95% coverage across NaN, infinity, overflow, and underflow corner cases
+• Designed a sequential IEEE-754 compliant FPU in Verilog/SystemVerilog supporting addition, multiplication, and division with Round-to-Nearest-Even (RNE) rounding and FSM-based control  
+• Developed a UVM-based verification environment with constrained-random test generation, assertions, and functional coverage, achieving >95% coverage across NaN, infinity, overflow, and underflow corner cases  
 • Optimized arithmetic datapath and rounding logic, reducing latency by 20% while ensuring IEEE-754 precision compliance and full regression pass in ModelSim/VCS simulations
 
 🖥️**Design and Verification of 4-bit ALU using SystemVerilog**  
