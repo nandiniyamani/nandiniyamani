@@ -18,11 +18,11 @@ Experience
 -----
 📚 **Research Assistant** 
 📍 University of South Florida, Tampa, FL, USA                                   
-📅 August 2025 - Present
-• Designed and verified mixed-signal and digital subsystems using Verilog for RTL implementation using Vivado, accelerating FPGA prototyping by 25% and optimizing for PPA during design verification, contributing to CPU design and leveraging computer architecture principles, and performed system testing and troubleshooting of computer hardware
-•	Modeled system architecture in SysML v2, reducing validation errors by 90% and enhancing first-silicon success probability
-•	Integrated SysML into FPGA workflows with TCL scripting, improving traceability by 30% and reduced debugging time by 25%
-•	Presented lab demonstrations with SysML-based documentation linked to FPGA design, showcasing experience in test engineering
+📅 August 2025 - Present  
+• Designed and verified mixed-signal and digital subsystems using Verilog for RTL implementation using Vivado, accelerating FPGA prototyping by 25% and optimizing for PPA during design verification, contributing to CPU design and leveraging computer architecture principles, and performed system testing and troubleshooting of computer hardware  
+• Modeled system architecture in SysML v2, reducing validation errors by 90% and enhancing first-silicon success probability  
+• Integrated SysML into FPGA workflows with TCL scripting, improving traceability by 30% and reduced debugging time by 25%  
+• Presented lab demonstrations with SysML-based documentation linked to FPGA design, showcasing experience in test engineering
 
 🎓 Education  
 -----
