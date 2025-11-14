@@ -103,12 +103,12 @@ Experience
 
 📜 Certifications & Technical Achievements  
 -----
-🏆 JMP (DOE, SPC, etc.) - SAS
-🏆 RTL to GDS II Flow v6.0 - Cadence
-🏆 DFT Fundamentals - Cadence
-🏆 Digital Design and Verification Academic Curriculum v1.0 - Cadence
-🏆 Basic Static Timing Analysis v3.0 - Cadence
-🏆 Verilog, Perl, Computer Architecture Essentials - LinkedIn Learning
-🏆 Semiconductor Fabrication 101 (FEOL and BEOL process) - Purdue University
+🏆 JMP (DOE, SPC, etc.) - SAS  
+🏆 RTL to GDS II Flow v6.0 - Cadence  
+🏆 DFT Fundamentals - Cadence  
+🏆 Digital Design and Verification Academic Curriculum v1.0 - Cadence  
+🏆 Basic Static Timing Analysis v3.0 - Cadence  
+🏆 Verilog, Perl, Computer Architecture Essentials - LinkedIn Learning  
+🏆 Semiconductor Fabrication 101 (FEOL and BEOL process) - Purdue University  
 🏆 Design Verification with SystemVerilog/UVM - Udemy
 
